@@ -1,1 +1,1 @@
-noi dung file tren server
+noi dung file tren client
